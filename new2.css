@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:lightgray;
+    font-size: 24px;
+}
+h2{
+    color:black;
+    text-align:center;
+}
+.grandfather{
+    display:flex;
+    justify-content: space-evenly;
+    margin:1.5em;
+}
+#one{
+    color:rgb(235, 68, 8);
+}
+#two{
+    color:darkred;
+}
+#three{
+    color:purple;
+}
+#four{
+    color:green;
+}
